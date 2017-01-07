@@ -14,6 +14,7 @@ https://twitter.com/griepmeting
 EU:
 
 - Fluoutlook
+
 "Fluoutlook is a web platform for the exploration of influenza forecasts"
 
 http://www.fluoutlook.org/
@@ -25,7 +26,9 @@ Interesting: http://www.fluoutlook.org/methodology.html
 http://ecdc.europa.eu/en/Pages/home.aspx
 
 
-- Centers for Disease Control and Prevention (US) - FluView:
+- Centers for Disease Control and Prevention (US) 
+
+FluView:
 
 https://www.cdc.gov/flu/weekly/index.htm#ILIMap
 
