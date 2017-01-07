@@ -19,7 +19,9 @@ EU:
 
 http://www.fluoutlook.org/
 
-Interesting: http://www.fluoutlook.org/methodology.html
+Interesting:
+
+http://www.fluoutlook.org/methodology.html
 
 - European Centre of Disease Prevention and Control (ECDC)
 
@@ -35,6 +37,7 @@ https://www.cdc.gov/flu/weekly/index.htm#ILIMap
 
 
 - Influenzanet
+
 "Influenzanet: a network of European citizens fighting against influenza"
 
 "[...] allows people in 11 countries to report influenza-like symptoms [...]"
@@ -48,12 +51,14 @@ https://www.influenzanet.eu/
 https://www.influenzanet.eu/en/flu-activity/
 
 - fivethirtyeight:
+
 http://fivethirtyeight.com/features/how-new-york-hunts-for-early-signs-of-disease-outbreaks/
 
 
 - Big data:
 
 Big Data for Infectious Disease Surveillance and Modeling - December 1, 2016
+
 http://jid.oxfordjournals.org/content/214/suppl_4.toc
 
 
