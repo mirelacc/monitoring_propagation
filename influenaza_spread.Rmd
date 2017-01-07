@@ -1,33 +1,63 @@
 
 
-
-
-NL:
+# NL:
 
 https://www.degrotegriepmeting.nl 
 
 (created by an astrophysicist :) https://nl.wikipedia.org/wiki/Carl_Koppeschaar)
 
+http://www.fluoutlook.org/forecasts.html?country=NL
+
 https://twitter.com/griepmeting
 
-EU:
 
+# EU:
+
+# Fluoutlook
+"Fluoutlook is a web platform for the exploration of influenza forecasts"
+
+http://www.fluoutlook.org/
+
+Interesting: http://www.fluoutlook.org/methodology.html
+
+European Centre of Disease Prevention and Control (ECDC)
+
+http://ecdc.europa.eu/en/Pages/home.aspx
+
+
+Centers for Disease Control and Prevention (US) - FluView:
+
+https://www.cdc.gov/flu/weekly/index.htm#ILIMap
+
+
+
+# Influenzanet
+"Influenzanet: a network of European citizens fighting against influenza"
+"[...] allows people in 11 countries to report influenza-like symptoms [...]"
 (initiative of NL)
 
 https://www.influenzanet.eu/
  
-(strange charts)
+(some (strange) charts)
 
 https://www.influenzanet.eu/en/flu-activity/
 
-"Fluoutlook is a web platform for the exploration of influenza forecasts"
-http://www.fluoutlook.org/
-
-Interesting:
-http://www.fluoutlook.org/methodology.html
+# fivethirtyeight:
+http://fivethirtyeight.com/features/how-new-york-hunts-for-early-signs-of-disease-outbreaks/
 
 
-EU countries:
+# Big data:
+
+Big Data for Infectious Disease Surveillance and Modeling - December 1, 2016
+http://jid.oxfordjournals.org/content/214/suppl_4.toc
+
+
+# Influenza on google maps:
+
+https://www.influweb.it/it/mappe/
+
+
+# Other countries websites:
 
 https://www.influweb.it/
 
@@ -35,10 +65,6 @@ http://www.iss.it/flue/
 
 http://www.museus.ulisboa.pt/Noite%20Europeia%20dos%20Investigadores
 
-
-
-# Influence on google maps:
-
-https://www.influweb.it/it/mappe/
+http://www.flutracking.net/Info/Research
 
 
