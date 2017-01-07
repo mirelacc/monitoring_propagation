@@ -1,6 +1,6 @@
 
 
-# NL:
+NL:
 
 https://www.degrotegriepmeting.nl 
 
@@ -11,29 +11,31 @@ http://www.fluoutlook.org/forecasts.html?country=NL
 https://twitter.com/griepmeting
 
 
-# EU:
+EU:
 
-# Fluoutlook
+- Fluoutlook
 "Fluoutlook is a web platform for the exploration of influenza forecasts"
 
 http://www.fluoutlook.org/
 
 Interesting: http://www.fluoutlook.org/methodology.html
 
-European Centre of Disease Prevention and Control (ECDC)
+- European Centre of Disease Prevention and Control (ECDC)
 
 http://ecdc.europa.eu/en/Pages/home.aspx
 
 
-Centers for Disease Control and Prevention (US) - FluView:
+- Centers for Disease Control and Prevention (US) - FluView:
 
 https://www.cdc.gov/flu/weekly/index.htm#ILIMap
 
 
 
-# Influenzanet
+- Influenzanet
 "Influenzanet: a network of European citizens fighting against influenza"
+
 "[...] allows people in 11 countries to report influenza-like symptoms [...]"
+
 (initiative of NL)
 
 https://www.influenzanet.eu/
@@ -42,22 +44,22 @@ https://www.influenzanet.eu/
 
 https://www.influenzanet.eu/en/flu-activity/
 
-# fivethirtyeight:
+- fivethirtyeight:
 http://fivethirtyeight.com/features/how-new-york-hunts-for-early-signs-of-disease-outbreaks/
 
 
-# Big data:
+- Big data:
 
 Big Data for Infectious Disease Surveillance and Modeling - December 1, 2016
 http://jid.oxfordjournals.org/content/214/suppl_4.toc
 
 
-# Influenza on google maps:
+- Influenza on google maps:
 
 https://www.influweb.it/it/mappe/
 
 
-# Other countries websites:
+- Other countries websites:
 
 https://www.influweb.it/
 
