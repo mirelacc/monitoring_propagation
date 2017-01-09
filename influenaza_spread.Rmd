@@ -50,21 +50,63 @@ https://www.influenzanet.eu/
 
 https://www.influenzanet.eu/en/flu-activity/
 
-- fivethirtyeight:
+
+
+- Big data & Researchers:
+
+Fivethirtyeight: 
+
+"How New York Hunts For Early Signs Of Disease Outbreaks" (nov 2016)
 
 http://fivethirtyeight.com/features/how-new-york-hunts-for-early-signs-of-disease-outbreaks/
 
 
-- Big data:
-
-Big Data for Infectious Disease Surveillance and Modeling - December 1, 2016
+"Big Data for Infectious Disease Surveillance and Modeling" - December 1, 2016
 
 http://jid.oxfordjournals.org/content/214/suppl_4.toc
+
+Big Data voorspellingen met behulp van Twitter
+
+http://twittermania.nl/2014/04/big-data-voorspellingen-met-behulp-van-twitter/
+
+Predicting Disease Transmission from Geo-Tagged Micro-Blog Data
+
+http://www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz-Silenzio_Predicting-Disease-Transmission-from-Geo-Tagged-Micro-Blog-Data_AAAI-12.pdf
+
+Modeling-Spread-of-Disease-from-Social-Interactions
+
+http://www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz-Silenzio_Modeling-Spread-of-Disease-from-Social-Interactions_ICWSM-12.pdf 
+
+"scalable machine learning techniques that help us understand and predict emergent global processes"
+
+http://www.cs.rochester.edu/~sadilek/research/
+
+
+"The Parable of Google Flu: Traps in Big Data Analysis"
+
+http://science.sciencemag.org/content/343/6176/1203.full 
+
+"Influenza Forecasting with Google Flu Trends"
+
+http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056176
+
+
+"In this paper, we investigate the real-time flu detection problem and propose a flu detection model with emotion factors and semantic information."
+
+http://onlinelibrary.wiley.com/doi/10.1002/tee.22389/full
+
+
+"The SIR Model for Spread of Disease - Introduction"
+
+http://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-introduction
+
+
 
 
 - Influenza on google maps:
 
 https://www.influweb.it/it/mappe/
+
 
 
 - Other countries websites:
