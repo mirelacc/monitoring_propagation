@@ -120,3 +120,7 @@ http://www.museus.ulisboa.pt/Noite%20Europeia%20dos%20Investigadores
 http://www.flutracking.net/Info/Research
 
 
+"The vision is to develop infodemiology methods and metrics/indices, as well as a set of open source tools to gather these metrics/indices [...]"
+
+http://www.infodemiology.org/#syndsurv
+
