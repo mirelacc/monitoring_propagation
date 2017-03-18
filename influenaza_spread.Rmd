@@ -34,13 +34,15 @@ Related researchers:
 - Predicting Disease Transmission from Geo-Tagged Micro-Blog Data http://www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz-Silenzio_Predicting-Disease-Transmission-from-Geo-Tagged-Micro-Blog-Data_AAAI-12.pdf
 - Modeling-Spread-of-Disease-from-Social-Interactions http://www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz-Silenzio_Modeling-Spread-of-Disease-from-Social-Interactions_ICWSM-12.pdf 
 - "scalable machine learning techniques that help us understand and predict emergent global processes" http://www.cs.rochester.edu/~sadilek/research/
+- Modeling Spread of Disease from Social Interactions http://www.cs.rochester.edu/u/kautz/papers/Sadilek-Kautz-Silenzio_Modeling-Spread-of-Disease-from-Social-Interactions_ICWSM-12.pdf
+- Relational Learning and Reasoning about Human Activities: An Overview http://www.cs.rochester.edu/~sadilek/research/activity/
 - on a map: http://www.cs.rochester.edu/~sadilek/research/map-NYC/
 - Google Trends: A Web-Based Tool for Real-Time Surveillance of Disease Outbreaks: https://academic.oup.com/cid/article/49/10/1557/298019/Google-Trends-A-Web-Based-Tool-for-Real-Time
 - "The Parable of Google Flu: Traps in Big Data Analysis" http://science.sciencemag.org/content/343/6176/1203.full 
 - "Influenza Forecasting with Google Flu Trends" http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056176
 - "In this paper, we investigate the real-time flu detection problem and propose a flu detection model with emotion factors and semantic information."
 - http://onlinelibrary.wiley.com/doi/10.1002/tee.22389/full
-- "The SIR Model for Spread of Disease - Introduction" http://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-introduction
+- Inferring spatiotemporal dynamics of the H1N1 influenza pandemic from sequence data http://bedford.io/projects/dynamics-practical/
 - Influenza on google maps: https://www.influweb.it/it/mappe/
 - http://science.sciencemag.org/content/343/6176/1203.full
 - https://www.google.org/flutrends/about/data/flu/nl/data.txt
@@ -57,7 +59,6 @@ Related researchers:
 - http://cid.oxfordjournals.org/content/49/10/1557.full
 - https://scholar.google.nl/scholar?start=10&q=Infovigil&hl=nl&as_sdt=0,5
 - http://bmjopen.bmj.com/content/5/6/e006678.full
-- http://www.infodemiology.org/#keyword
 - http://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk
 
 
@@ -68,10 +69,15 @@ Other countries influenza related websites:
 - http://www.museus.ulisboa.pt/Noite%20Europeia%20dos%20Investigadores
 - http://www.flutracking.net/Info/Research
 - "The vision is to develop infodemiology methods and metrics/indices, as well as a set of open source tools to gather these metrics/indices [...]" http://www.infodemiology.org/#syndsurv
+- An Internet-Based Epidemiological Investigation of the Outbreak of H7N9 Avian Influenza A in China Since Early 2013 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4211021/
+- Social Media and Internet-Based Data in Global Systems for Public Health Surveillance: A Systematic Review https://onlinelibrary.wiley.com/doi/10.1111/1468-0009.12038/full
+- Importance of Internet Surveillance in Public Health Emergency Control and Prevention: Evidence From a Digital Epidemiologic Study During Avian Influenza A H7N9 Outbreaks www.jmir.org/2014/1/e20/
+- The Use of Social Networking Sites for Public Health Practice and Research: A Systematic Review www.jmir.org/2014/3/e79/
+- The utility of web mining for epidemiological research: studying the association between parity and cancer risk https://academic.oup.com/jamia/article/23/3/588/2908994/The-utility-of-web-mining-for-epidemiological
 
- 
 Models:
 
+- "The SIR Model for Spread of Disease - Introduction" http://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-introduction
 - https://www.google.nl/search?client=ubuntu&hs=gg1&channel=fs&q=Flu+Markov+Network+github&spell=1&sa=X&ved=0ahUKEwjCqsKUueLQAhXHiRoKHdZEDwwQvwUIGSgA
 - https://github.com/balshor/shimm
 - https://github.com/balshor/shimm/blob/master/src/main/scala/com/bizo/markov/model/HiddenMarkovModel.scala
@@ -79,6 +85,7 @@ Models:
 - https://en.wikipedia.org/wiki/Hazard_ratio
 - http://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-introduction
 - https://www.r-bloggers.com/sir-model-of-epidemics/
+- Graphical Models: https://people.cs.umass.edu/~mccallum/courses/gm2011/10-variable-elimination2.pdf
 
 Twitter & predicting disease:
 
@@ -91,10 +98,16 @@ Twitter & predicting disease:
 - http://twittermania.nl/2010/07/twitter-voorspelt-griepepidemie/
 - https://blog.twitter.com/2015/twitter-data-public-health
 
+Propagation on social media:
+
+- The Anatomy of a Scientific Rumor http://www.nature.com/articles/srep02980
+- The Future of Prediction: How Google Searches Foreshadow Housing Prices and Sales https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2022293
 
 
 Peripherally related:
 
+- Infodemiology: http://www.ajpmonline.org/article/S0749-3797(11)00088-2/abstract
+- http://www.infodemiology.org/#keyword
 - How brand-new words are spreading across America: https://qz.com/465820/how-brand-new-words-are-spreading-across-america/
 
 
