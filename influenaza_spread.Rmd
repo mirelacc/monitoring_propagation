@@ -2,125 +2,100 @@
 
 NL:
 
-https://www.degrotegriepmeting.nl 
-
-(created by an astrophysicist :) https://nl.wikipedia.org/wiki/Carl_Koppeschaar)
-
-http://www.fluoutlook.org/forecasts.html?country=NL
-
-https://twitter.com/griepmeting
+- https://www.degrotegriepmeting.nl (created by https://nl.wikipedia.org/wiki/Carl_Koppeschaar)
+- http://www.fluoutlook.org/forecasts.html?country=NL
+- https://twitter.com/griepmeting
+- https://www.degrotegriepmeting.nl/nl/results/
+- https://www.degrotegriepmeting.nl/nl/over-griep/griep/
+- http://www.rivm.nl/Onderwerpen/G/Griep
+- http://www.rivm.nl/Onderwerpen/G/Griep/Surveillance/Stand_van_zaken_griep
+- http://www.rivm.nl/Documenten_en_publicaties/Professioneel_Praktisch/Richtlijnen/Infectieziekten/LCI_richtlijnen/LCI_richtlijn_Influenza
 
 
 EU:
 
-- Fluoutlook
-
-"Fluoutlook is a web platform for the exploration of influenza forecasts"
-
-http://www.fluoutlook.org/
+- Fluoutlook "[...] a web platform for the exploration of influenza forecasts" http://www.fluoutlook.org/
 
 Interesting:
 
-http://www.fluoutlook.org/methodology.html
+- http://www.fluoutlook.org/methodology.html
+- European Centre of Disease Prevention and Control (ECDC) http://ecdc.europa.eu/en/Pages/home.aspx
 
-- European Centre of Disease Prevention and Control (ECDC)
+Centers for Disease Control and Prevention (US) 
 
-http://ecdc.europa.eu/en/Pages/home.aspx
+- FluView: https://www.cdc.gov/flu/weekly/index.htm#ILIMap
+- Influenzanet: "[...] a network of European citizens fighting against influenza [...] allows people in 11 countries to report influenza-like symptoms " (initiative of NL) https://www.influenzanet.eu/
+- (some charts) https://www.influenzanet.eu/en/flu-activity/
+
+Related researchers:
+
+- Fivethirtyeight: "How New York Hunts For Early Signs Of Disease Outbreaks" (nov 2016) http://fivethirtyeight.com/features/how-new-york-hunts-for-early-signs-of-disease-outbreaks/
+- "Big Data for Infectious Disease Surveillance and Modeling" - December 1, 2016 http://jid.oxfordjournals.org/content/214/suppl_4.toc
+- Predicting Disease Transmission from Geo-Tagged Micro-Blog Data http://www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz-Silenzio_Predicting-Disease-Transmission-from-Geo-Tagged-Micro-Blog-Data_AAAI-12.pdf
+- Modeling-Spread-of-Disease-from-Social-Interactions http://www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz-Silenzio_Modeling-Spread-of-Disease-from-Social-Interactions_ICWSM-12.pdf 
+- "scalable machine learning techniques that help us understand and predict emergent global processes" http://www.cs.rochester.edu/~sadilek/research/
+- on a map: http://www.cs.rochester.edu/~sadilek/research/map-NYC/
+- Google Trends: A Web-Based Tool for Real-Time Surveillance of Disease Outbreaks: https://academic.oup.com/cid/article/49/10/1557/298019/Google-Trends-A-Web-Based-Tool-for-Real-Time
+- "The Parable of Google Flu: Traps in Big Data Analysis" http://science.sciencemag.org/content/343/6176/1203.full 
+- "Influenza Forecasting with Google Flu Trends" http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056176
+- "In this paper, we investigate the real-time flu detection problem and propose a flu detection model with emotion factors and semantic information."
+- http://onlinelibrary.wiley.com/doi/10.1002/tee.22389/full
+- "The SIR Model for Spread of Disease - Introduction" http://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-introduction
+- Influenza on google maps: https://www.influweb.it/it/mappe/
+- http://science.sciencemag.org/content/343/6176/1203.full
+- https://www.google.org/flutrends/about/data/flu/nl/data.txt
+- https://www.google.nl/search?client=ubuntu&channel=fs&q=Google+Flu+Trends+-+Netherlands&ie=utf-8&oe=utf-8&gfe_rd=cr&ei=0iFIWPS8Ks3c8Af-yoPIDg
+- https://scholar.google.nl/scholar?hl=nl&q=experience+after+google+flu+&btnG=&lr=
+- https://scholar.google.nl/scholar?hl=nl&q=Google+Flu+Trends&btnG=&lr=
+- http://onlinelibrary.wiley.com/doi/10.1002/tee.22389/full
+- http://www.sciencedirect.com/science/article/pii/S0749379714002384
+- http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056176
+- https://github.com/sdwfrost/influenza-dynamics-practical-h5n1
+- https://github.com/trvrb/dynamics-practical
+- http://healthycanadians.gc.ca/diseases-conditions-maladies-affections/disease-maladie/index-eng.php
+- https://docs.google.com/forms/d/e/1FAIpQLSdZbYbCeULxWAFHsMRgKQ6Q1aFvOwLauVF8kuk5W_HOTrSq2A/viewform?visit_id=1-636167190752931662-2248891501&rd=1
+- http://cid.oxfordjournals.org/content/49/10/1557.full
+- https://scholar.google.nl/scholar?start=10&q=Infovigil&hl=nl&as_sdt=0,5
+- http://bmjopen.bmj.com/content/5/6/e006678.full
+- http://www.infodemiology.org/#keyword
+- http://www.vet.cam.ac.uk/directory/sdf22@cam.ac.uk
 
 
-- Centers for Disease Control and Prevention (US) 
+Other countries influenza related websites:
 
-FluView:
+- https://www.influweb.it/
+- http://www.iss.it/flue/
+- http://www.museus.ulisboa.pt/Noite%20Europeia%20dos%20Investigadores
+- http://www.flutracking.net/Info/Research
+- "The vision is to develop infodemiology methods and metrics/indices, as well as a set of open source tools to gather these metrics/indices [...]" http://www.infodemiology.org/#syndsurv
 
-https://www.cdc.gov/flu/weekly/index.htm#ILIMap
-
-
-
-- Influenzanet
-
-"Influenzanet: a network of European citizens fighting against influenza"
-
-"[...] allows people in 11 countries to report influenza-like symptoms [...]"
-
-(initiative of NL)
-
-https://www.influenzanet.eu/
  
-(some (strange) charts)
+Models:
 
-https://www.influenzanet.eu/en/flu-activity/
+- https://www.google.nl/search?client=ubuntu&hs=gg1&channel=fs&q=Flu+Markov+Network+github&spell=1&sa=X&ved=0ahUKEwjCqsKUueLQAhXHiRoKHdZEDwwQvwUIGSgA
+- https://github.com/balshor/shimm
+- https://github.com/balshor/shimm/blob/master/src/main/scala/com/bizo/markov/model/HiddenMarkovModel.scala
+- http://blog.revolutionanalytics.com/2014/03/r-and-hidden-markov-models.html
+- https://en.wikipedia.org/wiki/Hazard_ratio
+- http://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-introduction
+- https://www.r-bloggers.com/sir-model-of-epidemics/
 
+Twitter & predicting disease:
 
-
-- Big data & Researchers:
-
-Fivethirtyeight: 
-
-"How New York Hunts For Early Signs Of Disease Outbreaks" (nov 2016)
-
-http://fivethirtyeight.com/features/how-new-york-hunts-for-early-signs-of-disease-outbreaks/
-
-
-"Big Data for Infectious Disease Surveillance and Modeling" - December 1, 2016
-
-http://jid.oxfordjournals.org/content/214/suppl_4.toc
-
-Big Data voorspellingen met behulp van Twitter
-
-http://webcache.googleusercontent.com/search?q=cache:sumJISwzTjcJ:twittermania.nl/2014/04/big-data-voorspellingen-met-behulp-van-twitter/+&cd=1&hl=en&ct=clnk&gl=nl
-
-Predicting Disease Transmission from Geo-Tagged Micro-Blog Data
-
-http://www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz-Silenzio_Predicting-Disease-Transmission-from-Geo-Tagged-Micro-Blog-Data_AAAI-12.pdf
-
-Modeling-Spread-of-Disease-from-Social-Interactions
-
-http://www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz-Silenzio_Modeling-Spread-of-Disease-from-Social-Interactions_ICWSM-12.pdf 
-
-"scalable machine learning techniques that help us understand and predict emergent global processes"
-
-http://www.cs.rochester.edu/~sadilek/research/
-
-
-"The Parable of Google Flu: Traps in Big Data Analysis"
-
-http://science.sciencemag.org/content/343/6176/1203.full 
-
-"Influenza Forecasting with Google Flu Trends"
-
-http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056176
-
-
-"In this paper, we investigate the real-time flu detection problem and propose a flu detection model with emotion factors and semantic information."
-
-http://onlinelibrary.wiley.com/doi/10.1002/tee.22389/full
-
-
-"The SIR Model for Spread of Disease - Introduction"
-
-http://www.maa.org/press/periodicals/loci/joma/the-sir-model-for-spread-of-disease-introduction
+- http://twittermania.nl/2014/04/big-data-voorspellingen-met-behulp-van-twitter/
+- http://twittermania.nl/2010/10/griepmeting-twitter/
+- http://twittermania.nl/2012/08/twitteralgoritme-voorspelt-ziekte/
+- https://www.technologyreview.com/s/520116/twitter-datastream-used-to-predict-flu-outbreaks/
+- http://twitter.mpi-sws.org/
+- http://twittermania.nl/2014/03/twitter-scoort-100-nieuw-privacy-rapport-eff/
+- http://twittermania.nl/2010/07/twitter-voorspelt-griepepidemie/
+- https://blog.twitter.com/2015/twitter-data-public-health
 
 
 
+Peripherally related:
 
-- Influenza on google maps:
-
-https://www.influweb.it/it/mappe/
-
+- How brand-new words are spreading across America: https://qz.com/465820/how-brand-new-words-are-spreading-across-america/
 
 
-- Other countries websites:
-
-https://www.influweb.it/
-
-http://www.iss.it/flue/
-
-http://www.museus.ulisboa.pt/Noite%20Europeia%20dos%20Investigadores
-
-http://www.flutracking.net/Info/Research
-
-
-"The vision is to develop infodemiology methods and metrics/indices, as well as a set of open source tools to gather these metrics/indices [...]"
-
-http://www.infodemiology.org/#syndsurv
 
