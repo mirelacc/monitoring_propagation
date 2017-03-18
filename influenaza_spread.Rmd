@@ -87,21 +87,13 @@ Models:
 - https://www.r-bloggers.com/sir-model-of-epidemics/
 - Graphical Models: https://people.cs.umass.edu/~mccallum/courses/gm2011/10-variable-elimination2.pdf
 
-Twitter & predicting disease:
-
-- http://twittermania.nl/2014/04/big-data-voorspellingen-met-behulp-van-twitter/
-- http://twittermania.nl/2010/10/griepmeting-twitter/
-- http://twittermania.nl/2012/08/twitteralgoritme-voorspelt-ziekte/
-- https://www.technologyreview.com/s/520116/twitter-datastream-used-to-predict-flu-outbreaks/
-- http://twitter.mpi-sws.org/
-- http://twittermania.nl/2014/03/twitter-scoort-100-nieuw-privacy-rapport-eff/
-- http://twittermania.nl/2010/07/twitter-voorspelt-griepepidemie/
-- https://blog.twitter.com/2015/twitter-data-public-health
-
 Propagation on social media:
 
 - The Anatomy of a Scientific Rumor http://www.nature.com/articles/srep02980
 - The Future of Prediction: How Google Searches Foreshadow Housing Prices and Sales https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2022293
+- https://www.technologyreview.com/s/520116/twitter-datastream-used-to-predict-flu-outbreaks/
+- http://twitter.mpi-sws.org/
+- https://blog.twitter.com/2015/twitter-data-public-health
 
 
 Peripherally related:
