@@ -102,5 +102,7 @@ Peripherally related:
 - http://www.infodemiology.org/#keyword
 - How brand-new words are spreading across America: https://qz.com/465820/how-brand-new-words-are-spreading-across-america/
 
+Tools:
 
+- https://github.com/sdwfrost/influenza-dynamics-practical-h5n1
 
