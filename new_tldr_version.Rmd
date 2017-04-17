@@ -1,0 +1,22 @@
+Lokalisatie van griep-gerelateerde content, als deze wens nog actueel is
+
+- https://www.influweb.it/it/mappe/
+- http://www.cs.rochester.edu/~sadilek/research/map-NYC/
+- Deze 2 video’s zijn kort maar interessant:
+- https://www.youtube.com/watch?v=dMqs0voVuxc
+- https://www.youtube.com/watch?v=bz8CZBwSsbA
+- http://www.cs.rochester.edu/~sadilek/research/activity/ 
+- http://www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz-Silenzio_Modeling-Spread-of-Disease-from-Social-Interactions_ICWSM-12.pdf
+- http://www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz_Modeling-the-Impact-of-Lifestyle-on-Health-at-Scale_WSDM-13.pdf
+- http://www.cs.rochester.edu/~sadilek/publications/Sadilek_Airports-IJCAI-2013.pdf
+- http://www.cs.rochester.edu/~sadilek/publications/Sadilek_Interplay-IJCAI-2013.pdf
+- http://www.cs.rochester.edu/~sadilek/publications/Sadilek,%20Kautz,%20et%20al.%20Deploying%20nEmesis.pdf 
+- “Importance of Internet Surveillance in Public Health Emergency Control and Prevention:[...]” http://www.jmir.org/2014/1/e20/ 
+- www.cs.rochester.edu/~sadilek/publications/Sadilek-Kautz-Silenzio_Predicting-Disease-Transmission-from-Geo-Tagged-Micro-Blog-Data_AAAI-12.pdf
+- “The Parable of Google Flu: Traps in Big Data Analysis” https://gking.harvard.edu/files/gking/files/0314policyforumff.pdf
+- “Influenza Forecasting with Google Flu Trends” http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0056176 
+- https://academic.oup.com/cid/article/49/10/1557/298019/Google-Trends-A-Web-Based-Tool-for-Real-Time (mogelijkheid tot co-op? B. weet meer)
+- “Social Media and Internet-Based Data in Global Systems for Public Health Surveillance: A Systematic Review” www.onlinelibrary.wiley.com/doi/10.1111/1468-0009.12038/full 
+- “Twitter Datastream Used to Predict Flu Outbreaks” https://www.technologyreview.com/s/520116/twitter-datastream-used-to-predict-flu-outbreaks/
+- “Using Twitter data to study the world's health” https://blog.twitter.com/2015/twitter-data-public-health  +  http://www.healthmap.org → gebruiken geen Twitter als ik de “About” lees, daar ligt mogelijk een kans.
+- “Influenza Forecasting with Google Flu Trends” www.journals.plos.org/plosone/article?id=10.1371/journal.pone.0056176 
